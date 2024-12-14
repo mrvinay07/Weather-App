@@ -32,6 +32,9 @@ struct ContentView: View {
                     Text("30°")
                         .font(.system(size: 70,weight: .medium))
                         .foregroundColor(.white)
+                    Text("30°")
+                        .font(.system(size: 70,weight: .medium))
+                        .foregroundColor(.white)
                     
                 }
                 Spacer()
